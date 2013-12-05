@@ -11,3 +11,5 @@ Original schematics are in *Dynacord_Echocord_Mini_1975.png*. My modifications a
 I included a screenshot of the fragment of schematics in *mod.png* for those who don't want to mess with svg file.
 
 The *photo* directory contains photos of my work, *photo/1.jpg* has green letters on it, corresponding to places on the schematics.
+
+After soldering all the necessary connections, you have to fine-tune with the 10 kOhm potentiometer for the signal to be strong enough, although not distorted.
